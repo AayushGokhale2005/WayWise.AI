@@ -1,5 +1,20 @@
-![image](https://github.com/user-attachments/assets/f5e3c425-2c27-43cd-8bd1-9459fea927cb)
-![image](https://github.com/user-attachments/assets/85fdf829-a7eb-4651-9004-b38144718375)
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" style="vertical-align: middle;">
+        <img src="https://github.com/user-attachments/assets/85fdf829-a7eb-4651-9004-b38144718375" alt="WayWise Logo" width="120" height="120"/>
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <h1>WayWise.ai</h1>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f5e3c425-2c27-43cd-8bd1-9459fea927cb" alt="WayWise Preview"/>
+</p>
+
 
 ---
 
