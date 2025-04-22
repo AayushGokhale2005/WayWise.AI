@@ -2,11 +2,9 @@
   <table>
     <tr>
       <td align="center" style="vertical-align: middle;">
-        <img src="https://github.com/user-attachments/assets/85fdf829-a7eb-4651-9004-b38144718375" alt="WayWise Logo" width="120" height="120"/>
+        <img src="https://github.com/user-attachments/assets/85fdf829-a7eb-4651-9004-b38144718375"  width="120" height="120"/>
       </td>
-      <td align="center" style="vertical-align: middle;">
-        <h1>WayWise.ai</h1>
-      </td>
+      
     </tr>
   </table>
 </p>
@@ -16,11 +14,7 @@
 </p>
 
 
----
 
-> Plan smarter journeys using OpenAI + real-time weather + Firebase — all wrapped in a modern, ChatGPT-style interface.
-
----
 
 ## 🚀 Features
 
