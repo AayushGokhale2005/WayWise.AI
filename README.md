@@ -1,6 +1,5 @@
 <p align="center">
   <table>
-    <tr>
       <td align="center" style="vertical-align: middle;">
         <img src="https://github.com/user-attachments/assets/85fdf829-a7eb-4651-9004-b38144718375"  width="120" height="120"/>
       </td>
@@ -47,7 +46,7 @@
 | Weather     | OpenWeatherMap / WeatherAPI |
 | Realtime DB | Firebase Firestore       |
 | Auth        | Firebase Auth (Google)   |
-| Hosting     | Vercel / Firebase Hosting (optional) |
+| Hosting     | Vercel / Firebase Hosting|
 
 ---
 
